@@ -29,3 +29,5 @@ Data sources:
 -Gapminder: package in R
 -Reference file for ISO codes: https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv 
 
+Link to Shiny app:
+https://ctapen.shinyapps.io/Rshiny_population/ 
